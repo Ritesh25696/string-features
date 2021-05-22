@@ -1,0 +1,19 @@
+{
+  "name": "string-features",
+  "version": "0.10.0",
+  "description": "Common things you need while working with strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strings",
+    "helpers",
+    "camelcase",
+    "titlecase",
+    "hyphencase",
+    "underscorecase"
+  ],
+  "author": "Ritesh chauhan",
+  "license": "MIT"
+}
