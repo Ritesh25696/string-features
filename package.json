@@ -1,6 +1,6 @@
 {
   "name": "string-features",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Common things you need while working with strings",
   "main": "server.js",
   "scripts": {
