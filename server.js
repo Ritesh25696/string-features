@@ -162,6 +162,16 @@ module.exports = {
      */
     underscoreCase: function (str) {
         return (str.replace(/\.?([A-Z]+)/g, function (x, y) { return "_" + y.toLowerCase() }).replace(/^_/, ""));
+    },
+    
+    /**
+     * Check if input string ends with given substring
+     * @param {*} str Input string
+     * @param {*} substr Input substring
+     * @returns boolean true or false
+     */
+    endsWith: function (str, substr) {
+        return str.endsWith(substr);
     }
 
 }

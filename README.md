@@ -142,3 +142,12 @@ Convert the input string to underscore case
  str.underscoreCase(BatteryAAA) // battery_aaa
  str.underscoreCase(coldWind)   // cold_wind
 ```
+
+- endsWith<br>
+Check if input string ends with given substring
+```
+ str.endsWith("Hello World", "World") // True
+ str.endsWith("Hello#", "#")   // True
+ str.endsWith("This is a test", "test") // True
+ str.endsWith("This is a test", "st") // True
+```
