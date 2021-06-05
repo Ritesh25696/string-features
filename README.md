@@ -1,5 +1,11 @@
 # String features
 
+[![npm version](https://badge.fury.io/js/string-features.svg)](https://badge.fury.io/js/string-features)
+![npm](https://img.shields.io/npm/v/string-features?logo=npm&style=flat-square)
+![npm](https://img.shields.io/npm/dm/string-features?style=flat-square)
+![GitHub Release Date](https://img.shields.io/github/release-date/ritesh25696/string-features?logo=semantic-release&style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/yes/2021?color=%237FFFD4&style=flat-square)
+
 String-features or simptly str as the name suggests is having all the features that you will normally require while working with strings.<br>
 The cleaner and readable the code the better, with this motive i've created this package which is open for changes.<br>
 If you want to make any cahnges just make the changes and update README. I'll update everything and add the name to contributers list.

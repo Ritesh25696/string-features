@@ -12,8 +12,15 @@
     "camelcase",
     "titlecase",
     "hyphencase",
-    "underscorecase"
+    "underscorecase",
+    "simple-string",
+    "string-helpers"
   ],
   "author": "Ritesh chauhan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritesh25696/string-features.git"
+  },
+  "homepage": "https://github.com/Ritesh25696/string-features#readme"
 }
