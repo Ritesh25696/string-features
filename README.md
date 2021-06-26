@@ -23,7 +23,7 @@ npm install --save string-features
 ```
 ## Usage
 ```
-var str = require('string');
+var str = require('string-features');
 ```
 
 ## Examples
